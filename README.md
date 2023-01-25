@@ -1,4 +1,4 @@
-# English_document_classification
+# English Document Classification
 Training language models to perform text classification in patent domain.
 
 ## Base model
